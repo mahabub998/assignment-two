@@ -13,6 +13,9 @@
 .navbar-collapse{
     margin-left: 100px;
 }
+.nav-das{
+    padding: 0 15px;
+}
 
 
 
@@ -64,6 +67,9 @@ margin-right: 5%;
 }
 .shadow-img{
     height: 68%;
+}
+.shadow-middil{
+height: 62%;
 }
 
 
