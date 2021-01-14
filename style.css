@@ -1,0 +1,131 @@
+ .penguin-fashoin{
+    height: 500px;
+ }
+ 
+ 
+ 
+ 
+ .logo{
+    width: 50%;
+    margin-top:20px;
+    margin-left: 100px; 
+}
+.navbar-collapse{
+    margin-left: 100px;
+}
+
+
+
+.main-pic{
+    width: 60%;
+    margin-left: 100px;
+}
+.btn-color{
+   background-color:rgb(63, 61, 199);
+   color:rgb(255, 255, 255) ;
+   width:150px;
+   height: 50px;
+   border-radius: 5px;
+}
+.btn-formals{
+    background-color:rgb(72, 118, 187);
+   color:rgb(255, 255, 255) ;
+   width:150px;
+   height: 50px;
+   border-radius: 5px; 
+}
+.btn-ladis{
+    background-color:rgb(212, 88, 185);
+    color:rgb(255, 255, 255) ;
+    width:150px;
+    height: 50px;
+    border-radius: 5px; 
+ }
+
+
+.image-slide{
+margin-right: 5%;
+}
+.nike-react{
+    color: tomato;
+}
+.infinity-text{
+    color:rgb(105, 81, 81);
+}
+
+
+
+
+#border-bad{
+    border: 0;
+}
+.img-height{
+    height: 100%;
+}
+.shadow-img{
+    height: 68%;
+}
+
+
+.footer-img img{
+width: 50%;
+margin-right:5px;
+    
+}
+.footer-main-photos{
+    width:none;
+}
+.thabnil img{
+    width: 10% ;
+}
+
+
+
+
+
+
+
+
+.container{
+    margin-top: 100px;
+    height: 700px;
+    
+}
+
+.main-photos{
+    display: flex;
+}
+.carts-best img{
+    width: 90%;
+    margin-left: 100px;
+}
+.carts{
+    display: flex;
+}
+.carts-details{
+    display: grid;
+    grid-template-rows: repeat(3,1fr);
+      
+}
+.carts img{
+height: 60px;
+margin-left:10px;
+}
+.text{
+    display: grid;
+    margin-left: 50px;
+}
+.price-color{
+    color: tomato;
+}
+
+
+.button-set{
+   margin-left:100px; 
+}
+
+
+
+
+
+
